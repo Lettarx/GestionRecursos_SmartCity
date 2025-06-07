@@ -30,9 +30,10 @@ streamlit run main.py
 
 4. Interactua con la interfaz
 
-![image](https://github.com/user-attachments/assets/85db290e-674f-4d34-a7b0-c25788253c06)
+![image](https://github.com/user-attachments/assets/5e667b78-9d29-4b68-b903-e1620276e579)
 
-![image](https://github.com/user-attachments/assets/7a0cf521-3c46-49a7-a6cf-67bd8bcb517d)
+![image](https://github.com/user-attachments/assets/d02dd7d6-9576-4772-a417-c9cd63e5d620)
+
 
 
 
